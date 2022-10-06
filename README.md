@@ -10,6 +10,8 @@ Support Vector for Regression (SVR)
 Decision Tree Regression
 Random Forest Regression
 
+------------------------------------------------------------------------------
+
 Unlike regression where you predict a continuous number, you use classification to predict a category. There is a wide variety of classification applications from medicine to marketing. Classification models include linear models like Logistic Regression, SVM, and nonlinear ones like K-NN, Kernel SVM and Random Forests.
 
 Machine Learning Classification models:
@@ -21,8 +23,18 @@ Naive Bayes
 Decision Tree Classification
 Random Forest Classification
 
+------------------------------------------------------------------------------
+
 Clustering is similar to classification, but the basis is different. In Clustering you don’t know what you are looking for, and you are trying to identify some segments or clusters in your data. When you use clustering algorithms on your dataset, unexpected things can suddenly pop up like structures, clusters and groupings you would have never thought of otherwise.
 
 Machine Learning Clustering models:
 K-Means Clustering
 Hierarchical Clustering
+
+------------------------------------------------------------------------------
+
+People who bought also bought ... That is what Association Rule Learning will help figure out!
+
+Association Rule Learning models:
+Apriori
+Eclat
